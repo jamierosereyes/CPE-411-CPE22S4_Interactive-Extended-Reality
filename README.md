@@ -1,3 +1,4 @@
+<div align="center">
 
  
 <h1 align="center">
@@ -17,18 +18,20 @@
 # Hi, I’m Jamie 👋
 
 <p style="font-family:Arial; color:#34495e;">
-  🎓 Student • 💻 Computer Engineering • 🌍 Explorer
+  
 </p>
 
 **Jamie Rose Kia Reyes** — 2nd Year Computer Engineering student at Technological Institute of the Philippines.  
 
+<pre>
+    🎓 Student • 💻 Computer Engineering • 🌍 Explorer
+    💻 learning GitHub profile customization and improving my web dev skills 
+    📖  Languages: Python; C++ 
+    🍀 Tools: GitHub; VS Code
+    🎮 Music • Games • Photography • Art
+    🐾 Muffin 🐰 • Cake & Cookie 
+</pre>
 
-## 🔭 I’m currently
-- Learning GitHub profile customization and improving my web dev skills
-
-## 🌱 Skills & tools
-**Languages:** Python; C++ 
-**Tools:** GitHub; VS Code
 
 
 ## 📫 How to reach me
