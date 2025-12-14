@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=110&section=header" width="100%">
-
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+hello!;I'm+Jamie%2C+a+tech-in-progress+with+a+soft+heart+and+big+goals+%E2%98%86" alt="Typing SVG" />
@@ -15,17 +14,22 @@
 <div style="width: 55%;">
 
 <h3>👋 About Me ✨</h3>
-<code>🎓 Student • 💻 CpE • 🌍 Explorer</code><br>
-<code>💻 Learning GitHub profile customization</code><br>
+<sub><i>Student • Frontend • Design-oriented</i></sub>
+<br><br>
+<code>👩‍💻 Full name: Jamie Rose Kia M. Reyes</code><br>
+<code>🎓 Computer Engineering Student at Technological Institute of the Philippines in Quezon City</code><br>
+<code>🌱 Learning at my own pace and growing one step at a time</code><br>
+<code>💻 Interested in frontend development & UI-focused projects</code><br>
 <code>📖 Languages: Python; C++</code><br>
-<code>🍀 Tools: GitHub; VS Code</code><br>
-<code>🎮 Music • Games • Photography • Art </code><br>
-<code>🍔 Milk • Burger & Fries • Mango •  Puto Bumbong </code>
+<code>🛠 Tools: GitHub; VS Code</code><br>
+<code>🎶 Music • 🎮 Games • 📸 Photography • 🎨 Design</code><br>
+<code>🍔 Milk • Burger & Fries • 🥭 Mango • 🍡 Puto Bumbong</code>
 
-<br><br>
 
+<hr style="border: 0; height: 1px; background: #BEE0F7; opacity: 0.4;">
+<br>
 <b>🛠️ Languages & Tools</b>
-<br><br>
+<br>
 <p align="left">
 <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -49,10 +53,10 @@
 </p>
 </div>
 
-<div style="width: 45%; text-align: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=jamierosereyes&show_icons=true&locale=en&theme=merko&hide_border=true&hide_title=true" width="100%" alt="stats graph" />
+<div style="width: 45%; text-align: right">
+<img src="https://github-readme-stats.vercel.app/api?username=jamierosereyes&show_icons=true&locale=en&theme=merko&hide_border=true&hide_title=true" width="50%" alt="stats graph" align="right"/>
 <br><br>
-<img src="https://streak-stats.demolab.com?user=jamierosereyes&theme=merko&hide_border=true&hide_title=true" width="100%" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=jamierosereyes&theme=merko&hide_border=true&hide_title=true" width="50%" alt="streak graph" align="right" />
 </div>
 </div>
 
