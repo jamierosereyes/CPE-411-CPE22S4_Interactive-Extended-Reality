@@ -10,9 +10,8 @@
 
 <br>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="width: 55%;">
 
 <h3>👋 About Me ✨</h3>
 <code>🎓 Student • 💻 CpE • 🌍 Explorer</code><br>
@@ -47,15 +46,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </a>
 </p>
-</td>
+</div>
 
-<td width="45%" valign="top" align="center">
+<div style="width: 45%; text-align: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=jamierosereyes&show_icons=true&locale=en&theme=merko&hide_border=true&hide_title=true" width="100%" alt="stats graph" />
 <br><br>
 <img src="https://streak-stats.demolab.com?user=jamierosereyes&theme=merko&hide_border=true&hide_title=true" width="100%" alt="streak graph" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 <div align="center">
 <br>
