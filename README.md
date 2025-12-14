@@ -1,24 +1,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=110&section=header" width="100%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGs0Nmd0N3c0cmZkeGI5NTBnbmlueDJrbDdkNWVrdDg3NGdma2kwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGs0Nmd0N3c0cmZkeGI5NTBnbmlueDJrbDdkNWVrdDg3NGdma2kwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif" width="150" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=F1C40F&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+hello!;I'm+Jamie%2C+a+tech-in-progress+with+a+soft+heart+and+big+goals+%E2%98%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+hello!;I'm+Jamie%2C+a+tech-in-progress+with+a+soft+heart+and+big+goals+%E2%98%86" alt="Typing SVG" />
   </a>
 </div>
 
-<table align="center" width="100%" border="0" style="border: none; border-collapse: collapse;">
+<br>
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="55%" valign="top">
-      <div style="line-height: 1.3; margin-bottom: 10px;">
-        🎓 Student • 💻 CpE • 🌍 Explorer<br>
-        💻 Learning GitHub profile customization<br>
-        📖 Languages: Python; C++<br>
-        🍀 Tools: GitHub; VS Code<br>
-        🎮 Music • Games • Photography • Art<br>
-        🐾 Muffin 🐰 • Cake & Cookie
-      </div>
+      
+      <h3>👋 About Me</h3>
+      <code>🎓 Student • 💻 CpE • 🌍 Explorer</code><br>
+      <code>💻 Learning GitHub profile customization</code><br>
+      <code>📖 Languages: Python; C++</code><br>
+      <code>🍀 Tools: GitHub; VS Code</code><br>
+      <code>🎮 Music • Games • Photography • Art</code><br>
+      <code>🐾 Muffin 🐰 • Cake & Cookie</code>
+
+      <br><br>
+
       <b>🛠️ Languages & Tools</b>
       <br><br>
       <p align="left">
@@ -43,17 +48,17 @@
         </a>
       </p>
     </td>
+
     <td width="45%" valign="top" align="center">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=jamierosereyes&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" height="150" alt="stats graph" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jamierosereyes&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" width="100%" alt="stats graph" />
       <br><br>
-      <img src="https://streak-stats.demolab.com?user=jamierosereyes&theme=tokyonight&hide_border=true&hide_title=true" height="150" alt="streak graph" />
+      <img src="https://streak-stats.demolab.com?user=jamierosereyes&theme=tokyonight&hide_border=true&hide_title=true" width="100%" alt="streak graph" />
     </td>
   </tr>
 </table>
-<br>
 
 <div align="center">
+  <br>
   <h3>📫 Connect with Me</h3>
   <p>
     <a href="https://www.linkedin.com/in/jamie-rose-kia-reyes-201901397/" target="_blank">
