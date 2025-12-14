@@ -1,11 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=110&section=header" width="100%">
+
 <div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGs0Nmd0N3c0cmZkeGI5NTBnbmlueDJrbDdkNWVrdDg3NGdma2kwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif" width="300" align="center"/>
+
+<div align="center">
+  
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+hello!;I'm+Jamie%2C+a+tech-in-progress+with+a+soft+heart+and+big+goals+%E2%98%86" alt="Typing SVG" />
 </a>
 
-<br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGs0Nmd0N3c0cmZkeGI5NTBnbmlueDJrbDdkNWVrdDg3NGdma2kwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif" width="300" align="right"/>
 </div>
 
 <br>
@@ -24,13 +28,10 @@
 <code>🛠 Tools: GitHub; VS Code</code><br>
 <code>🎶 Music • 🎮 Games • 📸 Photography • 🎨 Design</code><br>
 <code>🍔 Milk • Burger & Fries • 🥭 Mango • 🍡 Puto Bumbong</code>
-
-
-<hr style="border: 0; height: 1px; background: #BEE0F7; opacity: 0.4;">
-<br>
+<br><br>
 <b>🛠️ Languages & Tools</b>
 <br>
-<p align="left">
+<p align="center">
 <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -51,6 +52,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </a>
 </p>
+
+<hr style="border: 0; height: 1px; background: #BEE0F7; opacity: 0.4;">
+<br>
+
 </div>
 
 <div style="width: 45%; text-align: right">
